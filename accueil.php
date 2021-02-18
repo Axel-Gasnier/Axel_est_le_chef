@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Test de Pull request avec extention.</h1>
+    <h2>Test numéro 2</h2>
 </body>
 </html>
